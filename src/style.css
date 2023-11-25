@@ -6,7 +6,7 @@
 }
 
 /* PATOKAN */
-.preview-foto {
+/* .preview-foto {
   height: 400px;
   width: 300px;
 }
@@ -14,7 +14,7 @@
 .preview-fotov2 {
   height: 250px;
   width: 192px;
-}
+} */
 
 /* ---  */
 
@@ -33,10 +33,10 @@
 }
 
 .transisi {
-  transition: .5s ease;
+  transition: .3s ease;
 }
 
-#cursor-dot {
+/* #cursor-dot {
   width: 10px;
   height: 10px;
   background-color: white;
@@ -57,4 +57,22 @@
   border-radius: 50%;
   z-index: -10px;
   poiner-events: none;
+} */
+
+/* CUSTOM SCROLL */
+
+::-webkit-scrollbar {
+  width: 8px;
 }
+
+::-webkit-scrollbar-thumb {
+  width: 8px;
+  background: #1884f1;
+  border-radius: 10px;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+} 
+

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "mini": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --minify"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +17,6 @@
     "tailwindcss": "^3.3.5"
   },
   "dependencies": {
-    "rellax": "^1.12.1"
+    "rallax.js": "^2.0.4"
   }
 }

@@ -40,3 +40,5 @@ function checkMenit(i) {
 setInterval(waktu(), 500);
 // END Fitur Waktu
 
+
+
