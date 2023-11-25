@@ -19,5 +19,5 @@ Library yang  dipake :
 - ALPINE.JS = Untuk mempermudah animasi 
 - SWIPER = Untuk corousel 
 \
-Link yang saya tiru disini (Website)[https://adityasemara.web.app/]\
+Link yang saya tiru disini [Website](https://adityasemara.web.app/)\
 Menurut saya keren banget jadi saya nyoba ngikutin eh palah gak jadi, tapi suatu saat semoga saya bisa ada di level itu.
